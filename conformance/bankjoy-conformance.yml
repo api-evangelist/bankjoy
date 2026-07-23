@@ -1,0 +1,29 @@
+generated: '2026-07-18'
+method: searched
+source: https://bankjoy.com/security
+note: >-
+  Bankjoy is a business-to-business digital banking platform for community banks
+  and credit unions and does not publish a public developer API, OpenAPI, or
+  cross-cutting API standards surface. Conformance here reflects the security /
+  compliance program the provider publicly attests to on its security page, not
+  API-protocol conformance derived from a spec.
+standards:
+  - id: soc2-type-ii
+    conforms: true
+    evidence: >-
+      Security page attests SOC 2 Type II compliance (rigorous audit of internal
+      controls over an extended period).
+  - id: pci-dss
+    conforms: true
+    evidence: >-
+      Security page attests PCI DSS compliance for handling, processing, and
+      storing payment card information.
+  - id: iso-27001
+    conforms: false
+    evidence: not claimed on the public security page
+  - id: oauth2
+    conforms: false
+    evidence: no public OpenAPI / securitySchemes to assert against
+  - id: rfc9457-problem-details
+    conforms: false
+    evidence: no public API surface

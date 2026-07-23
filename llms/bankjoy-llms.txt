@@ -1,0 +1,26 @@
+# Bankjoy
+
+> Bankjoy is an end-to-end digital banking platform purpose-built for community banks and credit unions, delivering consumer and business online/mobile banking, online account opening, online loan origination, statements, and fraud tooling to 85+ financial institutions and 1M+ members. It is a B2B SaaS provider and does not publish a public developer API; integrations are delivered through banking cores (Corelation KeyStone, Fiserv) and 150+ partner integrations.
+
+## Products
+- [Consumer Banking](https://bankjoy.com/products/consumer-banking): Online and mobile banking for retail members.
+- [Business Banking](https://bankjoy.com/products/business-banking): Digital banking for business account holders.
+- [Online Account Opening](https://bankjoy.com/products/online-account-opening): Digital account opening.
+- [Online Loan Application](https://bankjoy.com/products/online-loan-application): Digital loan origination.
+- [JoyCompass](https://bankjoy.com/products/joycompass): Growth and engagement tooling.
+- [FraudSense](https://bankjoy.com/products/fraudsense): Fraud detection add-on.
+- [Statements](https://bankjoy.com/products/statements): Digital statements and documents.
+
+## Company
+- [Website](https://bankjoy.com/)
+- [About / People](https://bankjoy.com/people)
+- [Blog & Resources](https://bankjoy.com/resources)
+- [Careers](https://bankjoy.com/jobs)
+- [Press](https://bankjoy.com/press)
+- [Contact](https://bankjoy.com/contact)
+- [Book a Demo](https://bankjoy.com/book-a-demo)
+- [Client Login (JoyNet)](https://bankjoy.my.site.com/joynet/login)
+
+## Security & Legal
+- [Security (SOC 2 Type II, PCI DSS)](https://bankjoy.com/security)
+- [Privacy Policy](https://bankjoy.com/privacy-policy)
